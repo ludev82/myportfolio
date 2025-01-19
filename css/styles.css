@@ -90,7 +90,8 @@ nav a {
 /* Sections */
 .gray {
     background-color: rgb(247, 247, 247);
-    padding: 75px;
+    padding-top: 75px;
+    padding-bottom: 100px;
 }
 
 .white {

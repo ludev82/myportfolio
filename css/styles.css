@@ -104,9 +104,12 @@ footer {
     text-align: center;
     background-color: rgb(193, 193, 194);
     padding: 5px;
-    position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+footer p {
+    margin: 10px;
 }
 
 /* Titles and text */
